@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align:center ;
+    padding: 200px;
+}
+#main{
+    width: 900px;
+    border: 5px solid greenyellow;
+
+}
+#main-contents{
+    display: flex;
+    gap: 20px;
+    margin: 10px;
+    text-align: start;
+}
